@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "01",
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": "Admin123",
+      "img": "https://www.keyfactor.com/wp-content/uploads/administrator-icon-10.png"
+    }
+   
+  ],
+  "shopItems": [
+    {
+      "id": "1",
+      "info": "THE ROI OF CONVERSATIONAL MARKETING",
+      "title": "Welcome to the Pipeline Cloud",
+      "about": "Walk through this step-by-step guide to calculate how your conversational marketing program will impact leads, pipeline, and boost your top-line revenue.",
+      "price": 22.99,
+      "amount": 10,
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/5fa97f346e466744becdf514_%5BMOCK%5D%20Book%204%20-%20ROI%20Cover-p-1080.png"
+    },
+    
+    {
+      "id": "02",
+      "info": "CONVERSATIONAL ABM PLAYBOOK",
+      "title": "ACCOUNT-BASED MARKETING",
+      "about": "Account-Based Marketing (ABM) is on the rise. Every thriving B2B company has an ABM strategy in motion, or plans to launch one soon.",
+      "price": 21.75,
+      "amount": 9,
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/61aa9072934d4b9697620819_APB-book-render.png"
+    },
+    {
+      "id": "03",
+      "info": "SPEED TO LEAD",
+      "title": "CONVERSATIONAL SELLING",
+      "about": "Discover strategies, tactics, and best practices for Conversational Selling - a new inbound sales model that is helping Sales Development Reps (SDRs) meet and exceed their goals.",
+      "price": 24.80,
+      "amount": 11,
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/5ebda79f78ec76624938791a_book2-%20mockup-final%20copy.png"
+    },
+    {
+      "id": "04",
+      "info": "RISE OF THE ANONYMOUS BUYER",
+      "title": "QUALIFIED SIGNALS",
+      "about": "B2B buying has forever changed—this book will help you get to know a new breed of buyer, understand how to best engage with them and when",
+      "price": 15.50,
+      "amount": 8,
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/61aa5cd41e1b7b22abd840ca_RTAB-book-render-rev.png"
+    },
+    {
+      "id": "05",
+      "info": "WELCOME TO THE PIPELINE CLOUD",
+      "title": "THE B2B BUYER REVOLUTION",
+      "about": "In this book, you'll learn what the Pipeline Cloud is, the technology and motion behind it, the teams that best benefit from it, and how to leverage it at your organization.",
+      "price": 29.99,
+      "amount": 5,
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/6247955a72fd2e8288e019fe_WTPLC-Books-Render.png"
+    },
+    {
+      "id": "06",
+      "info": "TRAILBLAZERS IN CONVERSATIONAL MARKETING",
+      "title": "CUSTOMER SPOTLIGHT",
+      "about": "Hear directly from CMOs and marketing leaders in the Salesforce ecosystem on how Conversational Marketing is transforming their buyer engagement strategies.",
+      "price": 14.20,
+      "amount": 10,
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/5fe225cc820e834c1d0c9c69_%5BMOCK%5D%20Book%205%20-%20Trailblazers%20in%20CM%20Cover-sm.png"
+    }
+  ]
+}

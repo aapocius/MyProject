@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": "01",
+      "email": "one@mail.com",
+      "password": "Vilnius123",
+      "info": "THE ROI OF CONVERSATIONAL MARKETING",
+      "title": "Welcome to the Pipeline Cloud",
+      "about": "Walk through this step-by-step guide to calculate how your conversational marketing program will impact leads, pipeline, and boost your top-line revenue.",
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/5fa97f346e466744becdf514_%5BMOCK%5D%20Book%204%20-%20ROI%20Cover-p-1080.png"
+    },
+    {
+      "id": "02",
+      "email": "two@mail.com",
+      "password": "Vilnius123",
+      "info": "Conversational ABM Playbook",
+      "title": "ACCOUNT-BASED MARKETING",
+      "about": "Account-Based Marketing (ABM) is on the rise. Every thriving B2B company has an ABM strategy in motion, or plans to launch one soon.",
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/61aa9072934d4b9697620819_APB-book-render.png"
+    },
+    {
+      "id": "03",
+      "email": "three@mail.com",
+      "password": "Vilnius123",
+      "info": "Speed to Lead",
+      "title": "CONVERSATIONAL SELLING",
+      "about": "Discover strategies, tactics, and best practices for Conversational Selling - a new inbound sales model that is helping Sales Development Reps (SDRs) meet and exceed their goals.",
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/5ebda79f78ec76624938791a_book2-%20mockup-final%20copy.png"
+    },
+    {
+      "id": "04",
+      "email": "four@mail.com",
+      "password": "Vilnius123",
+      "info": "Rise of the Anonymous Buyer",
+      "title": "QUALIFIED SIGNALS",
+      "about": "B2B buying has forever changed—this book will help you get to know a new breed of buyer, understand how to best engage with them (and when), and create a best-in-class buying journey.",
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/61aa5cd41e1b7b22abd840ca_RTAB-book-render-rev.png"
+    },
+    {
+      "id": "05",
+      "email": "five@mail.com",
+      "password": "Vilnius123",
+      "info": "Welcome to the Pipeline Cloud",
+      "title": "THE B2B BUYER REVOLUTION",
+      "about": "In this book, you'll learn what the Pipeline Cloud is, the technology and motion behind it, the teams that best benefit from it, and how to leverage it at your organization.",
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/6247955a72fd2e8288e019fe_WTPLC-Books-Render.png"
+    },
+    {
+      "id": "06",
+      "email": "six@mail.com",
+      "password": "Vilnius123",
+      "info": "Trailblazers in Conversational Marketing",
+      "title": "CUSTOMER SPOTLIGHT",
+      "about": "Hear directly from CMOs and marketing leaders in the Salesforce ecosystem on how Conversational Marketing is transforming their buyer engagement strategies.",
+      "img": "https://assets-global.website-files.com/5bf5b410e2ba0f030f3e22cd/5fe225cc820e834c1d0c9c69_%5BMOCK%5D%20Book%205%20-%20Trailblazers%20in%20CM%20Cover-sm.png"
+    },
+    {
+      "email": "pocius.andrew@gmail.com",
+      "password": "Vilnius123",
+      "id": "Tjh8CgM"
+    }
+  ],
+  "shopItems": [
+    {
+      "id": "1",
+      "title": "Growth",
+      "inform": "Everything you need to get started with conversational sales and marketing.",
+      "price": 250,
+      "offerlist": [
+        "Salesforce Opportunity Matching",
+        "Salesforce Record Owner Routing",
+        "Salesforce Lookup Field Routing",
+        "Qualified for ABM",
+        "Experience A/B Testing",
+        "Custom Visitor Segments",
+        "Custom Qualified Dashboards",
+        "Custom User Access Controls",
+        "Pipeline and Revenue Dashboards",
+        "Live Chat Monitoring and Coaching"
+      ],
+      "amount": 5
+    },
+    {
+      "id": "2",
+      "title": "Premier",
+      "inform": "Fully integrated conversational platform with advanced Salesforce functionality.",
+      "price": 400,
+      "offerlist": [
+        "Live Chat with Qualified Voice",
+        "Custom Chatbots",
+        "Qualified Visitor 360",
+        "Qualified Live View",
+        "Custom Routing Rules",
+        "Slack and Teams Workflows",
+        "Qualified Enrich and Reverse IP",
+        "Reports and Dashboards",
+        "Qualified for Outbound",
+        "Award-Winning Salesforce Platform"
+      ],
+      "amount": 3
+    },
+    {
+      "id": "3",
+      "title": "Enterprise",
+      "inform": "Designed for large, complex organizations that need full service.",
+      "price": 500,
+      "offerlist": [
+        "Multiple Websites and Brands",
+        "Multi-Language Websites",
+        "Enterprise Single Sign-On",
+        "Enterprise Reporting API",
+        "Salesforce Sandbox Support",
+        "Salesforce Custom Object Support",
+        "Custom Data Retention Policies",
+        "Year-Round Optimization Services",
+        "On-Demand ROI and KPI Reviews",
+        "Slack and Teams Workflows"
+      ],
+      "amount": 6
+    }
+  ]
+}
