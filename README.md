@@ -1,5 +1,5 @@
 # Books shop
-Click on icon in navbar to login
+‼️Click on icon in navbar to login
 
 ## System requirements
   * Node.js
