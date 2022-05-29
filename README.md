@@ -1,4 +1,5 @@
 # Demo E-shop
+Click on icon in navbar to login
 
 ## System requirements
   * Node.js
