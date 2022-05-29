@@ -1,4 +1,4 @@
-# Demo E-shop
+# Books shop
 Click on icon in navbar to login
 
 ## System requirements
